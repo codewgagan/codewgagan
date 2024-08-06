@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gagan Gowda</h1>
-<h3 align="center">A passionate Software Tester from India</h3>
+<h3 align="center">A Software Tester from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewgagan&label=Profile%20views&color=0e75b6&style=flat" alt="codewgagan" /> </p>
 
-- 🔭 I’m currently working on **Amazon Project to Automate**
+- 🔭 I’m currently learning **Java with DSA**
 
 - 🌱 I’m currently learning **Automation Testing**
 
