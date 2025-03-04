@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gagan Gowda</h1>
-<h3 align="center">A Software Tester from India</h3>
+<h3 align="center">I am a Web Developer building responsive Web Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewgagan&label=Profile%20views&color=0e75b6&style=flat" alt="codewgagan" /> </p>
 
-- 🔭 I’m currently learning **Java with DSA**
+- 🔭 I’m currently learning **React**
 
-- 🌱 I’m currently learning **Automation Testing**
+- 🌱  ****
 
-- 💬 Ask me about **Manual, Autoamtion, Core Java and Selenium Related**
+- 💬 Ask me about **HTML, CSS, Core Java, and Web Dev**
 
 - 📫 How to reach me **gagangowda0507@gmail.com**
 
