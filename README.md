@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewgagan&label=Profile%20views&color=0e75b6&style=flat" alt="codewgagan" /> </p>
 
-- 🔭 I’m currently learning **React**
+- 🔭 I’m a **Front-End Developer**
 
-- 🌱  ****
+- 🌱  **Always Learning**
 
 - 💬 Ask me about **HTML, CSS, Core Java, and Web Dev**
 
