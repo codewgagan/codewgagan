@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gagan Gowda</h1>
+<h1 align="center">Hi 👋, I'm Gagan</h1>
 <h3 align="center">I am a Web Developer building responsive Web Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codewgagan&label=Profile%20views&color=0e75b6&style=flat" alt="codewgagan" /> </p>
 
 - 🔭 I’m a **Front-End Developer**
 
-- 🌱  **Always Learning**
+- 🌱  **Learning and Building**
 
-- 💬 Ask me about **HTML, CSS, Core Java, and Web Dev**
+- 💬 Ask me about **HTML, CSS, React, and Web Dev**
 
 - 📫 How to reach me **gagangowda0507@gmail.com**
 
